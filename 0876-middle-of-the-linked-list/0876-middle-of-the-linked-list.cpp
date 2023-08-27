@@ -18,14 +18,8 @@ public:
             size++;
             temp = temp->next;
         }
-        if(size % 2 == 0){
-            position = (size/2) + 1;
-        }
-        else{
-            position = (size/2) + 1;
-        }
+        position = (size/2) + 1;
         temp = head;
-        cout<<position<<" ";
         while(position != 1){
             position--;
             temp = temp->next;
