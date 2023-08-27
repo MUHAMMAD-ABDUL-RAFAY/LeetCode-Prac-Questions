@@ -2,22 +2,16 @@ class Solution {
 public:
     string reversePrefix(string word, char ch) {
         stack<char> st;
-        bool flag = false;
+        int pos = -1;
         for(int i=0;i<word.length();i++){
             st.push(word[i]);
             if(ch == word[i]){
-                flag = true;
+                pos = i;
                 break;
             }
         }
-        int k = 0;
-        if(flag){
-            while(!st.empty()){
-                word[k] = st.top();
-                st.pop();
-                k++;
-            }    
-        }
+        if(pos != -1)
+            reverse(word.begin(),word.begin()+pos+1);
         return word;
     }
 };
