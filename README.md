@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -21,4 +22,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
