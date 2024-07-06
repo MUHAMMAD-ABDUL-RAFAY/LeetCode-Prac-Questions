@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -51,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
