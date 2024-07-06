@@ -22,11 +22,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1293-three-consecutive-odds) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Math
 |  |
 | ------- |
