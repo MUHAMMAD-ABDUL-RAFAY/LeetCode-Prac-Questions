@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -65,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
