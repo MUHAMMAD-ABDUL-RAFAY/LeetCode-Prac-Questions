@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1720-crawler-log-folder](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1894-merge-strings-alternately) |
 ## Queue
 |  |
@@ -70,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/MUHAMMAD-ABDUL-RAFAY/LeetCode-Prac-Questions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
